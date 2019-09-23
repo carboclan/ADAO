@@ -1,0 +1,11 @@
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/substrate_cli-2808bbdfe2c355ac.rmeta: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/traits.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/params.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/error.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/informant.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/libsubstrate_cli-2808bbdfe2c355ac.rlib: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/traits.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/params.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/error.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/informant.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/substrate_cli-2808bbdfe2c355ac.d: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/traits.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/params.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/error.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/informant.rs
+
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/lib.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/traits.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/params.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/error.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/core/cli/src/informant.rs:

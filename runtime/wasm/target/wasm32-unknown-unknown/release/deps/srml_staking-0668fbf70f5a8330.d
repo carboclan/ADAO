@@ -1,0 +1,10 @@
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/srml_staking-0668fbf70f5a8330.rmeta: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/tests.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/phragmen.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/libsrml_staking-0668fbf70f5a8330.rlib: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/tests.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/phragmen.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/srml_staking-0668fbf70f5a8330.d: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/tests.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/phragmen.rs
+
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/lib.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/mock.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/tests.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/staking/src/phragmen.rs:

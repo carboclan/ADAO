@@ -1,0 +1,22 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("false")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clear_on_drop-50b9ff3e88f636b4/out/src/hide.o" "-c" "src/hide.c"
+exit code: 0
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "crs" "/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clear_on_drop-50b9ff3e88f636b4/out/libclear_on_drop.a" "/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clear_on_drop-50b9ff3e88f636b4/out/src/hide.o"
+exit code: 0
+cargo:rustc-link-lib=static=clear_on_drop
+cargo:rustc-link-search=native=/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clear_on_drop-50b9ff3e88f636b4/out

@@ -1,0 +1,10 @@
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/tokio_dns-21b401a05f294ab2.rmeta: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/libtokio_dns-21b401a05f294ab2.rlib: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/tokio_dns-21b401a05f294ab2.d: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs
+
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/lib.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/endpoint.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/net.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-dns-unofficial-0.4.0/src/resolver.rs:

@@ -1,0 +1,1 @@
+{"rustc":1832944061073362903,"features":"","target":0,"profile":0,"path":0,"deps":[[9265038862334593227,"build_script_build",false,16927547335282207555]],"local":[{"RerunIfChanged":{"output":"output","paths":["build.rs","rocksdb/","snappy/","lz4/","zstd/","zlib/","bzip2/"]}}],"rustflags":[],"metadata":0}

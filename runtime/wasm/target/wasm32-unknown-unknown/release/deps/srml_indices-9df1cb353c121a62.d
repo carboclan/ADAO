@@ -1,0 +1,10 @@
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/srml_indices-9df1cb353c121a62.rmeta: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/address.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/tests.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/libsrml_indices-9df1cb353c121a62.rlib: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/address.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/tests.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/runtime/wasm/target/wasm32-unknown-unknown/release/deps/srml_indices-9df1cb353c121a62.d: /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/lib.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/mock.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/address.rs /Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/tests.rs
+
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/lib.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/mock.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/address.rs:
+/Users/hashgard-01/.cargo/git/checkouts/substrate-7e08433d4c370a21/cc1d67e/srml/indices/src/tests.rs:

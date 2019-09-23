@@ -1,0 +1,11 @@
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/clang_sys-5905467934ef486d.rmeta: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/support.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/link.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/common.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/dynamic.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/libclang_sys-5905467934ef486d.rlib: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/support.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/link.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/common.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/dynamic.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/clang_sys-5905467934ef486d.d: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/support.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/link.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/common.rs /Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/dynamic.rs
+
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/lib.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/support.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-0.26.4/src/link.rs:
+/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/common.rs:
+/Users/hashgard-01/rust/src/github.com/adao/target/release/build/clang-sys-c73eca567a81d810/out/dynamic.rs:

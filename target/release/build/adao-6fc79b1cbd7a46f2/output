@@ -1,0 +1,12 @@
+cargo:rustc-env=VERGEN_BUILD_DATE=2019-09-23
+cargo:rustc-env=VERGEN_SHA_SHORT=99aa374
+cargo:rustc-env=VERGEN_SHA=99aa374e62fb4d7227b60d2845fc2d3ff81b0fd8
+cargo:rustc-env=VERGEN_BUILD_TIMESTAMP=2019-09-23T10:23:53.352412+00:00
+cargo:rustc-env=VERGEN_COMMIT_DATE=2019-09-23
+cargo:rustc-env=VERGEN_TARGET_TRIPLE=x86_64-apple-darwin
+cargo:rustc-env=VERGEN_SEMVER=1.0.0
+cargo:rustc-env=VERGEN_SEMVER_LIGHTWEIGHT=1.0.0
+cargo:rerun-if-changed=.git/HEAD
+cargo:rerun-if-changed=.git/refs/heads/master
+
+cargo:rerun-if-changed=.git/HEAD

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/hashgard-01/rust/src/github.com/adao/target/release/build/typenum-d57043be54b04abc/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/hashgard-01/rust/src/github.com/adao/target/release/build/typenum-d57043be54b04abc/out/op.rs

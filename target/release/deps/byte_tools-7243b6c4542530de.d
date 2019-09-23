@@ -1,0 +1,11 @@
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/byte_tools-7243b6c4542530de.rmeta: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/libbyte_tools-7243b6c4542530de.rlib: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/hashgard-01/rust/src/github.com/adao/target/release/deps/byte_tools-7243b6c4542530de.d: /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs /Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs
+
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/lib.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_single.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_single.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/read_slice.rs:
+/Users/hashgard-01/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-tools-0.2.0/src/write_slice.rs:
